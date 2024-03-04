@@ -1,0 +1,8 @@
+D:\23.11.5693\1\tugas 01\bin\Debug\tugas 01.exe.config
+D:\23.11.5693\1\tugas 01\bin\Debug\tugas 01.exe
+D:\23.11.5693\1\tugas 01\bin\Debug\tugas 01.pdb
+D:\23.11.5693\1\tugas 01\obj\Debug\tugas 01.csproj.AssemblyReference.cache
+D:\23.11.5693\1\tugas 01\obj\Debug\tugas 01.csproj.SuggestedBindingRedirects.cache
+D:\23.11.5693\1\tugas 01\obj\Debug\tugas 01.csproj.CoreCompileInputs.cache
+D:\23.11.5693\1\tugas 01\obj\Debug\tugas 01.exe
+D:\23.11.5693\1\tugas 01\obj\Debug\tugas 01.pdb
